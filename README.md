@@ -24,11 +24,15 @@
 
 ### Step 4: Access Your Website
 1. Once the deployment is complete, go to the **Amplify Console**.
+   ![Step 9](images/9.png)
 2. Locate the URL in the **Domain** section (e.g., `https://staging.d25f23hnim3jby.amplifyapp.com/`) and visit your website.
+   ![Step 10](images/10.png)
 
 ### Step 5: Update Your Website
 1. To make changes, update your `index.html` or other files, and re-upload them to the S3 bucket.
+    ![Step 11](images/11.png)
 2. In the **Amplify Console**, click **Deploy Updates**, select **Amazon S3**, and then click **Save and Deploy**.
+   ![Step 12](images/12.png)
 
 ---
 
