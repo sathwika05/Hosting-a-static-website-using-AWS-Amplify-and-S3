@@ -5,19 +5,19 @@
 2. Enter a unique name for your bucket (e.g., `mystaticwebsite-11162025`).
 3. Leave all other options as default, scroll down, and click **Create Bucket**.
    ![Step 1](images/1.png)
-   ![Step 3](images/2.png)
+   ![Step 3](images/3.png)
    ![Step 2](images/2.png)
 
 ### Step 2: Upload Your Files
 1. Open the newly created bucket.
 2. Click **Upload** and add the `index.html` file and `happy_learning.jpg` file. Now the objects are in your S3 bucket.
-   ![Step 4](images/2.png)
+   ![Step 4](images/4.png)
 
 ### Step 3: Enable Static Website Hosting with Amplify
 1. Go to the **Properties** tab of your bucket.
 2. Scroll to the bottom and locate **Static Website Hosting**.
 3. Click **Create Amplify App**, leave the options as default, and click **Save and Deploy**.
-   ![Step 3](images/3.png)
+   ![Step 3](images/5.png)
 
 ### Step 4: Access Your Website
 1. Once the deployment is complete, go to the **Amplify Console**.
