@@ -10,6 +10,7 @@
      ![Step 3](images/3.png)
    
 3. Leave all other options as default, scroll down, and click **Create Bucket**.   
+
    ![Step 2](images/2.png)
 
 ### Step 2: Upload Your Files
@@ -47,6 +48,7 @@
 1. To make changes, update your `index.html` or other files, and re-upload them to the S3 bucket.
    
 2. In the **Amplify Console**, click **Deploy Updates**, select **Amazon S3**, and then click **Save and Deploy**.
+
    ![Step 11](images/11.png)
    
    ![Step 12](images/12.png)
